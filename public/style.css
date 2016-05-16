@@ -1,0 +1,17 @@
+body{
+  background-color: #558a86;
+  margin: 50px;
+}
+
+h1, h2, h3 { color: white; }
+
+nav ul li {
+  display: inline;
+  text-align: center;
+}
+
+ul{ font-size: x-large; }
+
+p {
+  text-align: center;
+}
